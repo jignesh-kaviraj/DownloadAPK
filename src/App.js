@@ -1,5 +1,5 @@
 import './App.css';
-import app from './Spotify-8.7.48.1062_SpotifyGeek.Com.apk'
+import app from './base.apk'
 import { Button } from 'antd';
 import prlogo from './prlogo.png'
 
